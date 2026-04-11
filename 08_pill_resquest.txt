@@ -1,0 +1,2 @@
+Pull request é solicitação para mesclar (merge) uma
+feature branch na branch principal (main).
