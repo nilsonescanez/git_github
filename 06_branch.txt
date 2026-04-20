@@ -1,1 +1,0 @@
-Branch é uma “linha paralela” de desenvolvimento dentro de um repositório.
